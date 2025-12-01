@@ -10,7 +10,7 @@
 - Youlun Wang
 
 ## Contents
-- Documents →  To-do list
+- Documents →  To-do list and ERD
 - Presentation -> Final presentation
 - Videos → Paste your youtube link in the md file, All youtube links are to be posted inside the single file.
 - Submission Individual files are inside respective folders.
